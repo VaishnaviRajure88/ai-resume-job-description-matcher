@@ -1,0 +1,12 @@
+Software Engineer Intern
+
+We are looking for a candidate with strong programming and problem-solving skills.
+
+Required skills:
+Python, SQL, Git, GitHub, Pandas, NumPy, Machine Learning,
+Scikit-learn, Data Analysis, HTML, CSS, JavaScript,
+Data Structures, Algorithms and Communication.
+
+Responsibilities:
+Develop and test software applications, analyze data,
+work with APIs, maintain code using Git, and collaborate with the team.

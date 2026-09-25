@@ -1,0 +1,14 @@
+THRisha Balappagari
+B.Tech Electronics and Communication Engineering
+
+Skills:
+Python, SQL, Git, GitHub, Pandas, NumPy, HTML, CSS, Flask,
+Machine Learning, Data Analysis, Excel, Problem Solving,
+Communication, Data Structures and Algorithms.
+
+Projects:
+AI Spam Email Classifier using Python, Flask and Scikit-learn.
+Lead Data Cleaner using Python and Pandas with automated Excel reporting.
+
+Education:
+B.Tech in Electronics and Communication Engineering.
