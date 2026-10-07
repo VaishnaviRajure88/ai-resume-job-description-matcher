@@ -1,14 +1,18 @@
-THRisha Balappagari
-B.Tech Electronics and Communication Engineering
+Vaishnavi R
+Computer Engineering Graduate
 
 Skills:
-Python, SQL, Git, GitHub, Pandas, NumPy, HTML, CSS, Flask,
-Machine Learning, Data Analysis, Excel, Problem Solving,
-Communication, Data Structures and Algorithms.
+Java, Python, SQL, MySQL, HTML, CSS, JavaScript,
+Machine Learning, Pandas, NumPy, Scikit-learn,
+Git, GitHub, Data Analysis, Communication,
+Problem Solving
 
 Projects:
-AI Spam Email Classifier using Python, Flask and Scikit-learn.
-Lead Data Cleaner using Python and Pandas with automated Excel reporting.
 
-Education:
-B.Tech in Electronics and Communication Engineering.
+Big Mart Sales Prediction using Machine Learning
+Developed a predictive analysis project using Python,
+Pandas, NumPy and Scikit-learn.
+
+Online Railway Reservation System
+Developed a Java-based application using Java, JDBC
+and MySQL.
