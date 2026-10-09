@@ -59,7 +59,6 @@ The application calculates a custom matching score using:
 
 This weighting is implemented for this project to combine text similarity with skill coverage.
 
-> **Note:** This is a custom resume–job description matching score. It is not an official ATS score, hiring probability, or guarantee of interview selection.
 
 ## Project Structure
 
@@ -125,23 +124,6 @@ The application provides:
 - **Missing Skills** – job-relevant skills not detected in the resume
 - **Resume Strengths** – relevant skills already present
 - **Areas to Improve** – skills that could be highlighted or developed
-
-## Limitations
-
-- Skill detection is based on a predefined skill list.
-- The application does not understand context as deeply as a large language model.
-- Similar words or skills may not always be interpreted correctly.
-- The matching percentage should be used as an analysis aid rather than a hiring prediction.
-
-## Future Improvements
-
-- Support PDF and DOCX resume uploads
-- Automatically extract text from uploaded resumes
-- Add job-specific skill recommendations
-- Add visual charts for skill coverage
-- Store previous analyses using SQLite
-- Generate downloadable analysis reports
-- Improve skill extraction using more advanced NLP techniques
 
 ## Author
 
